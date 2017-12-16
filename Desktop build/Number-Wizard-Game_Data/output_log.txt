@@ -1,0 +1,143 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 3.929980 ms
+Level load requested for: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.388817 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.443732 ms (FindLiveObjects: 0.042821 ms CreateObjectMapping: 0.053372 ms MarkObjects: 0.341022 ms  DeleteObjects: 0.005275 ms)
+
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623397 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.420770 ms (FindLiveObjects: 0.041890 ms CreateObjectMapping: 0.045304 ms MarkObjects: 0.326748 ms  DeleteObjects: 0.004654 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.582437 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
+Total: 0.224969 ms (FindLiveObjects: 0.021410 ms CreateObjectMapping: 0.017376 ms MarkObjects: 0.180596 ms  DeleteObjects: 0.004964 ms)
+
+Level load requested for: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.573749 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.417046 ms (FindLiveObjects: 0.043132 ms CreateObjectMapping: 0.053992 ms MarkObjects: 0.313715 ms  DeleteObjects: 0.004654 ms)
+
+Level load requested for: Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.458627 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.322714 ms (FindLiveObjects: 0.029789 ms CreateObjectMapping: 0.017997 ms MarkObjects: 0.267170 ms  DeleteObjects: 0.006206 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415495 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
+Total: 0.244208 ms (FindLiveObjects: 0.025134 ms CreateObjectMapping: 0.016135 ms MarkObjects: 0.195490 ms  DeleteObjects: 0.006516 ms)
+
+Level load requested for: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.468867 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.292304 ms (FindLiveObjects: 0.030099 ms CreateObjectMapping: 0.026375 ms MarkObjects: 0.228072 ms  DeleteObjects: 0.006826 ms)
+
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579955 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.406806 ms (FindLiveObjects: 0.039408 ms CreateObjectMapping: 0.042511 ms MarkObjects: 0.318680 ms  DeleteObjects: 0.004654 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.410530 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
+Total: 0.272755 ms (FindLiveObjects: 0.021721 ms CreateObjectMapping: 0.018618 ms MarkObjects: 0.225900 ms  DeleteObjects: 0.005275 ms)
+
+Quit Requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2f58 -> priority: 1 
+  Thread -> id: 235c -> priority: 1 
+  Thread -> id: 2b48 -> priority: 1 
