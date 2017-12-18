@@ -15,7 +15,7 @@ Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\
 Loading G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.029 seconds
+- Completed reload, in  0.027 seconds
 Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: G:\This PC\Documents\repos\Unity\Number Wizard\Desktop build\Number-Wizard-Game_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
@@ -26,26 +26,26 @@ The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
  
 (Filename:  Line: 1744)
 
-UnloadTime: 3.929980 ms
+UnloadTime: 3.271208 ms
 Level load requested for: Game
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.388817 ms
+UnloadTime: 6.490596 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 272.
-Total: 0.443732 ms (FindLiveObjects: 0.042821 ms CreateObjectMapping: 0.053372 ms MarkObjects: 0.341022 ms  DeleteObjects: 0.005275 ms)
+Total: 0.395325 ms (FindLiveObjects: 0.040959 ms CreateObjectMapping: 0.054923 ms MarkObjects: 0.292925 ms  DeleteObjects: 0.005275 ms)
 
 The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
  
 (Filename:  Line: 1744)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.623397 ms
+UnloadTime: 0.546442 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 257.
-Total: 0.420770 ms (FindLiveObjects: 0.041890 ms CreateObjectMapping: 0.045304 ms MarkObjects: 0.326748 ms  DeleteObjects: 0.004654 ms)
+Total: 0.197972 ms (FindLiveObjects: 0.020169 ms CreateObjectMapping: 0.016756 ms MarkObjects: 0.154840 ms  DeleteObjects: 0.005275 ms)
 
 Level load requested for: Start
  
@@ -56,88 +56,16 @@ The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
 (Filename:  Line: 1744)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.582437 ms
+UnloadTime: 0.528134 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
-Total: 0.224969 ms (FindLiveObjects: 0.021410 ms CreateObjectMapping: 0.017376 ms MarkObjects: 0.180596 ms  DeleteObjects: 0.004964 ms)
-
-Level load requested for: Game
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.573749 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 272.
-Total: 0.417046 ms (FindLiveObjects: 0.043132 ms CreateObjectMapping: 0.053992 ms MarkObjects: 0.313715 ms  DeleteObjects: 0.004654 ms)
-
-Level load requested for: Lose
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
- 
-(Filename:  Line: 1744)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.458627 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 257.
-Total: 0.322714 ms (FindLiveObjects: 0.029789 ms CreateObjectMapping: 0.017997 ms MarkObjects: 0.267170 ms  DeleteObjects: 0.006206 ms)
-
-Level load requested for: Start
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
- 
-(Filename:  Line: 1744)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.415495 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
-Total: 0.244208 ms (FindLiveObjects: 0.025134 ms CreateObjectMapping: 0.016135 ms MarkObjects: 0.195490 ms  DeleteObjects: 0.006516 ms)
-
-Level load requested for: Game
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.468867 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 272.
-Total: 0.292304 ms (FindLiveObjects: 0.030099 ms CreateObjectMapping: 0.026375 ms MarkObjects: 0.228072 ms  DeleteObjects: 0.006826 ms)
-
-The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
- 
-(Filename:  Line: 1744)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.579955 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 257.
-Total: 0.406806 ms (FindLiveObjects: 0.039408 ms CreateObjectMapping: 0.042511 ms MarkObjects: 0.318680 ms  DeleteObjects: 0.004654 ms)
-
-Level load requested for: Start
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-The referenced script on this Behaviour (Game Object 'NumberWizard') is missing!
- 
-(Filename:  Line: 1744)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.410530 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
-Total: 0.272755 ms (FindLiveObjects: 0.021721 ms CreateObjectMapping: 0.018618 ms MarkObjects: 0.225900 ms  DeleteObjects: 0.005275 ms)
+Total: 0.202006 ms (FindLiveObjects: 0.016756 ms CreateObjectMapping: 0.016446 ms MarkObjects: 0.163219 ms  DeleteObjects: 0.004654 ms)
 
 Quit Requested
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 3 worker threads for Enlighten.
-  Thread -> id: 2f58 -> priority: 1 
-  Thread -> id: 235c -> priority: 1 
-  Thread -> id: 2b48 -> priority: 1 
+  Thread -> id: 1588 -> priority: 1 
+  Thread -> id: 1d88 -> priority: 1 
+  Thread -> id: 1e80 -> priority: 1 

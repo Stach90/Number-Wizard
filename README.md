@@ -1,1 +1,2 @@
-# Number-Wizard-Unity3D
+# Number-Wizard
+C# Unity3D - number guess game
